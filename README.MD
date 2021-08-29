@@ -1,7 +1,7 @@
 # BOT CROSSWORDS 
 Web'den veri çıkarma hergün daha önemli hale gelmektedir.Bu projemde Python BeautifulSoup kütüphanesi kullanarak  https://www.nytimes.com/crosswords/game/mini adresi üzerindeki "Accros" ve "Down" altındaki verileri ayrıştırdım. 
 
-# Kullanım:
+# Kullanım
  - Python dosyasını tercih ettiğiniz düzenleyicide indirebilir ve açabilirsiniz.
  
 # İş Akışı
