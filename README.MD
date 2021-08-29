@@ -5,7 +5,7 @@ Web'den veri çıkarma hergün daha önemli hale gelmektedir.Bu projemde Python 
  - Python dosyasını tercih ettiğiniz düzenleyicide indirebilir ve açabilirsiniz.
  
 # İş Akışı
-  1. Html Sayfayı İncledim. 
+  1. Html Sayfayı İnceledim. 
   2. HTML sayfayı ayrıştırmak için  html.parser ayrıştırıcısını seçtim (html5lib,lxml,html.parser)
   3. Beautifulsoup Nesnesi oluşturdum.
   4. İhtiyacım olan  etiketleri çıkarttım.
